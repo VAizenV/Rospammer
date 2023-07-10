@@ -1,0 +1,7 @@
+colorama
+ctypes
+os
+pystyle
+selenium
+requests
+discord_webhook
